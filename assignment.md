@@ -27,3 +27,6 @@ Github handle Name: [IITian20](https://github.com/IITian20)
 
 ### Yash Hirani
 <a href="https://www.facebook.com/yash.hirani.507679/"><img src = "icons8-facebook-64.png"></a>
+
+### Sweety Gupta
+<a href="https://www.instagram.com/svveetyx"><img src="instalogo.png" alt="instagram link" width="50px" height="50px"></a>
