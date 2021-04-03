@@ -12,3 +12,7 @@
 ### Divyansh Agarwal
 Github handle Name: [IITian20](https://github.com/IITian20)
 [<img src="https://image.flaticon.com/icons/png/128/2111/2111425.png" height="50">](https://github.com/IITian20)
+
+
+### Anurag Borhade
+<a href="https://www.facebook.com/anurag.borhade"><img src = "https://www.flaticon.com/svg/vstatic/svg/1312/1312139.svg?token=exp=1617446639~hmac=5dd70a24446435e4a13f870b64764964" width="50px" height="50px"></a>
