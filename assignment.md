@@ -25,3 +25,5 @@ Github handle Name: [IITian20](https://github.com/IITian20)
 ### Achintya Nath
 <a href="https://www.facebook.com/achintya.nath.5492"><img src = "icons8-facebook-64.png"></a>
 
+### Yash Hirani
+<a href="https://www.facebook.com/yash.hirani.507679/"><img src = "icons8-facebook-64.png"></a>
