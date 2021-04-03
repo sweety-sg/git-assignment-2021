@@ -27,3 +27,5 @@ Github handle Name: [IITian20](https://github.com/IITian20)
 
 ### Yash Hirani
 <a href="https://www.facebook.com/yash.hirani.507679/"><img src = "icons8-facebook-64.png"></a>
+### Pragya Mandloi
+<a href="https://www.instagram.com/pragya_mandloi"><img src = "https://1000logos.net/wp-content/uploads/2017/02/New-Instagram-logo.jpg">
