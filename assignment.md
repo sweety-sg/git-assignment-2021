@@ -21,3 +21,7 @@ Github handle Name: [IITian20](https://github.com/IITian20)
 
 ### Manan Jain
 <a href="https://www.facebook.com/manan.jain.12532/"><img src = "icons8-facebook-64.png" alt="facebook"></a>
+
+### Achintya Nath
+<a href="https://www.facebook.com/achintya.nath.5492"><img src = "icons8-facebook-64.png"></a>
+
