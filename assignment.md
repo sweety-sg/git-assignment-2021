@@ -7,3 +7,8 @@
 
 ### Ishu Gupta
 <a href="https://www.facebook.com/profile.php?id=100055990445574"><img src="icons8-facebook-64.png"></img></a>
+
+
+### Divyansh Agarwal
+Github handle Name: [IITian20](https://github.com/IITian20)
+[<img src="https://image.flaticon.com/icons/png/128/2111/2111425.png" height="50">](https://github.com/IITian20)
