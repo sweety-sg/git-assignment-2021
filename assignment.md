@@ -16,3 +16,5 @@ Github handle Name: [IITian20](https://github.com/IITian20)
 
 ### Anurag Borhade
 <a href="https://www.facebook.com/anurag.borhade"><img src = "https://www.flaticon.com/svg/vstatic/svg/1312/1312139.svg?token=exp=1617446639~hmac=5dd70a24446435e4a13f870b64764964" width="50px" height="50px"></a>
+## _Siddharth Singh Rana_
+<a href = "https://www.instagram.com/siddharth_93_sr/"><img src = "https://www.transparentpng.com/thumb/logo-instagram/347UuV-logo-instagram-free-download-transparent.png" alt = "Instagram" height="200px" width="25%"></a>
